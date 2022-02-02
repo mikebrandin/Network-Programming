@@ -1,0 +1,53 @@
+2021-12-10 02:45:00,263 - IRCServer[4776] - INFO - Launching client sauron...
+2021-12-10 02:45:00,272 - IRCServer[4776] - INFO - Sending message to b'\x80\x00\x00\x00l\x00\x00\x00\x00\x06\x00\x0bsauron"Test info"'
+2021-12-10 02:45:00,283 - IRCServer[4776] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x00\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,295 - IRCServer[4776] - INFO - Sending message to Host ID #7 "b'\x80\x00\x00\x00l\x00\x00\x00\x0b\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,305 - IRCServer[4776] - INFO - Received message from Host ID #11 "b'\x01\x00\x00\x00\x0b\x00\x00\x00l\x00\x00\x00\x00\x000Welcome to the Clemson Relay Chat network sauron'"
+2021-12-10 02:45:00,305 - IRCServer[4776] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x0b\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,313 - IRCServer[4776] - INFO - Received message from Host ID #101 "b'\x80\x00\x00\x00e\x00\x00\x00\x0b\x0c\x00\x0bfrodobaggins"Test info"'"
+2021-12-10 02:45:00,314 - IRCServer[4776] - INFO - Sending message to Host ID #4 "b'\x80\x00\x00\x00l\x00\x00\x00\x07\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,322 - IRCServer[4776] - INFO - Received message from Host ID #102 "b'\x80\x00\x00\x00f\x00\x00\x00\x0b\t\x00\x0bsamgamgee"Test info"'"
+2021-12-10 02:45:00,324 - IRCServer[4776] - INFO - Sending message to Host ID #10 "b'\x80\x00\x00\x00l\x00\x00\x00\x07\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,332 - IRCServer[4776] - INFO - Received message from Host ID #103 "b'\x80\x00\x00\x00g\x00\x00\x00\x0b\x06\x00\x0belrond"Test info"'"
+2021-12-10 02:45:00,334 - IRCServer[4776] - INFO - Sending message to Host ID #105 "b'\x80\x00\x00\x00l\x00\x00\x00\x07\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,341 - IRCServer[4776] - INFO - Received message from Host ID #104 "b'\x80\x00\x00\x00h\x00\x00\x00\x0b\x0c\x00\x0bbilbobaggins"Test info"'"
+2021-12-10 02:45:00,344 - IRCServer[4776] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x07\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,345 - IRCServer[4776] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x07\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,346 - IRCServer[4776] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x07\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,353 - IRCServer[4776] - INFO - Received message from Host ID #105 "b'\x80\x00\x00\x00i\x00\x00\x00\x0b\x08\x00\x0bperegrin"Test info"'"
+2021-12-10 02:45:00,360 - IRCServer[4776] - INFO - Sending message to Host ID #2 "b'\x80\x00\x00\x00l\x00\x00\x00\x04\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,366 - IRCServer[4776] - INFO - Received message from Host ID #106 "b'\x80\x00\x00\x00j\x00\x00\x00\x0b\x08\x00\x0bmeriadoc"Test info"'"
+2021-12-10 02:45:00,371 - IRCServer[4776] - INFO - Sending message to Host ID #6 "b'\x80\x00\x00\x00l\x00\x00\x00\x04\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,375 - IRCServer[4776] - INFO - Received message from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x0b\x05\x00\x0bbalin"Test info"'"
+2021-12-10 02:45:00,385 - IRCServer[4776] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x04\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,385 - IRCServer[4776] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x04\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,392 - IRCServer[4776] - INFO - Sending message to Host ID #9 "b'\x80\x00\x00\x00l\x00\x00\x00\x06\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,395 - IRCServer[4776] - INFO - Sending message to Host ID #1 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,404 - IRCServer[4776] - INFO - Sending message to Host ID #106 "b'\x80\x00\x00\x00l\x00\x00\x00\x06\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,407 - IRCServer[4776] - INFO - Sending message to Host ID #5 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,413 - IRCServer[4776] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x06\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,414 - IRCServer[4776] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x06\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,420 - IRCServer[4776] - INFO - Sending message to Host ID #8 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,429 - IRCServer[4776] - INFO - Sending message to Host ID #103 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,437 - IRCServer[4776] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,438 - IRCServer[4776] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,438 - IRCServer[4776] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,438 - IRCServer[4776] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,450 - IRCServer[4776] - INFO - Sending message to Host ID #3 "b'\x80\x00\x00\x00l\x00\x00\x00\x01\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,451 - IRCServer[4776] - INFO - Sending message to Host ID #107 "b'\x80\x00\x00\x00l\x00\x00\x00\x05\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,461 - IRCServer[4776] - INFO - Sending message to Host ID #101 "b'\x80\x00\x00\x00l\x00\x00\x00\x01\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,462 - IRCServer[4776] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x05\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,474 - IRCServer[4776] - INFO - Sending message to Host ID #102 "b'\x80\x00\x00\x00l\x00\x00\x00\x01\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,482 - IRCServer[4776] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x01\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,482 - IRCServer[4776] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x01\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,485 - IRCServer[4776] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x01\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,496 - IRCServer[4776] - INFO - Sending message to Host ID #104 "b'\x80\x00\x00\x00l\x00\x00\x00\x03\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:00,507 - IRCServer[4776] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x03\x06\x00\x0bsauron"Test info"'"
+2021-12-10 02:45:02,770 - IRCServer[4776] - INFO - Server has disconnected!
+2021-12-10 02:45:02,774 - IRCServer[4776] - INFO - Server has disconnected!
+2021-12-10 02:45:02,775 - IRCServer[4776] - INFO - Server has disconnected!
+2021-12-10 02:45:02,780 - IRCServer[4776] - INFO - Server has disconnected!
+2021-12-10 02:45:02,783 - IRCServer[4776] - INFO - Server has disconnected!
+2021-12-10 02:45:02,785 - IRCServer[4776] - INFO - Server has disconnected!
+2021-12-10 02:45:02,787 - IRCServer[4776] - INFO - Server has disconnected!
+2021-12-10 02:45:03,112 - IRCServer[4776] - INFO - Server has disconnected!
